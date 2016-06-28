@@ -1,0 +1,2 @@
+http://127.0.0.1:5005/victim.html
+http://127.0.0.1/xss_1.php?

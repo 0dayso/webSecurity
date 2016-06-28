@@ -1,0 +1,3 @@
+
+Xenotix XSS Exploit Framework WAF Detection Module
+Target not Specified!

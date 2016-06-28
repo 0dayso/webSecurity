@@ -1,0 +1,14 @@
+2016/2/26 21:54:08
+2016/2/26 21:55:47
+2016/2/26 21:55:55
+开始爬行http://lib.scnu.edu.cn/
+http://lib.scnu.edu.cn/asp2/tjnews.asp?tjnews=1 可能存在sql注入漏洞
+http://lib.scnu.edu.cn/guest4/read.asp?gustbook_id=16&xiaoqu=shipai&message_id=16410&xiaoqu=shipai message_id=16410 可能存在sql注入漏洞
+http://lib.scnu.edu.cn/dzzy2/dzzy_mess.asp?id=176 可能存在sql注入漏洞
+http://lib.scnu.edu.cn/dzzy2/dzzy_list_zw-nnn.asp?sjzt=&sjlb=&sj_style=&sjtm=&sj_px1=&sj_px2= sjzt= 可能存在sql注入漏洞
+http://lib.scnu.edu.cn/dzzy2/dzzy_list_zw-nnn.asp?sjzt=&sjlb=&sj_style=&sjtm=&sj_px1=&sj_px2= sjlb= 可能存在sql注入漏洞
+2016/2/26 21:57:28
+http://lib.scnu.edu.cn/dzzy2/dzzy_list_zw-nnn.asp?sjzt=&sjlb=&sj_style=&sjtm=&sj_px1=&sj_px2= sj_style= 可能存在sql注入漏洞
+http://lib.scnu.edu.cn/dzzy2/dzzy_list_zw-nnn.asp?sjzt=&sjlb=&sj_style=&sjtm=&sj_px1=&sj_px2= sjtm= 可能存在sql注入漏洞
+2016/2/26 22:05:43
+2016/2/26 22:33:36
